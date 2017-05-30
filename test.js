@@ -1,14 +1,4 @@
-# Taskler
-> Listr inspired Terminal task list but with callbacks instead of promises & observables
-
-## Install
-```cl
-yarn add taskler
-```
-
-## Usage
-```js
-const taskler = require('taskler')
+const taskler = require('./')
 
 const tasks = [{
   title: 'Do something',
@@ -37,6 +27,3 @@ const tasks = [{
 taskler(tasks, () => {
   console.log('🎉  All tasks are done')
 })
-```
-## Preview
-![Preview](https://mjz.io/D1Ohh.gif)

@@ -1,0 +1,14 @@
+{
+  "name": "taskler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:entwicklerstube/undefined.git",
+  "author": "michaelzoidl",
+  "license": "apache-license-2.0",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "elegant-spinner": "^1.0.1",
+    "log-update": "^2.0.0",
+    "outdent": "^0.3.0"
+  }
+}
