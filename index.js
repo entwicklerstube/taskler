@@ -4,9 +4,7 @@ const elegantSpinner = require('elegant-spinner');
 const t = require('outdent')
 
 const taskler = (tasks, done = n => n) => {
-	let canvas = {}
-
-	console.log('do');
+	let canvas = {};
 
 	setInterval(() => {
 		logUpdate(t`
