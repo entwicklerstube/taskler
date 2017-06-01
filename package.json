@@ -1,6 +1,6 @@
 {
   "name": "taskler",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.js",
   "repository": "git@github.com:entwicklerstube/taskler.git",
   "author": "michaelzoidl <github@michaelzoidl.com>",
